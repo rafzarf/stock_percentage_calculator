@@ -8,9 +8,8 @@ Additionally, the project includes unit tests to verify the correctness of both 
 ## **Features**
 - **Percentage Return Calculation**:
   Calculate the percentage return of a stock using the formula:
-  $$
-  \text{Percentage Return} = \frac{\text{Closing Price} - \text{Opening Price}}{\text{Opening Price}} \times 100
-  $$
+  **Percentage Return** = ((Closing Price - Opening Price) / Opening Price) * 100
+
 
 - **Input Validation**:
   Ensure that both the opening and closing prices are valid, positive numbers. If the input is invalid, the user is prompted to re-enter the value.
